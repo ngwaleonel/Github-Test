@@ -1,3 +1,8 @@
-## welcome to gdsc uba 
--[My CV](https://www.letech-cg.com/CV)
--[Gymstic photo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.olympicchannel.com%2Fimages%2Fimage%2Fprivate%2Ft_16-9_1920%2Fprimary%2Fozdvn6ytshokds8a8dau&imgrefurl=https%3A%2F%2Folympics.com%2Fen%2Fnews%2Frhythmic-and-artistic-gymnastics-explained&tbnid=nMFJTkPs1pFB8M&vet=12ahUKEwign5jIx833AhVpgc4BHVzpCCEQMygGegUIARDhAQ..i&docid=GYHd1QShFFHVpM&w=1920&h=1080&q=gymnastics&client=ubuntu&ved=2ahUKEwign5jIx833AhVpgc4BHVzpCCEQMygGegUIARDhAQ)
+## Welcome zone
+- [Facebook](www.facebook.com)
+- [Github](https.//www.github.com)
+
+- Best Picture
+
+- ![My image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6e%2FFootball_%2528soccer_ball%2529.svg%2F1200px-Football_%2528soccer_ball%2529.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFootball_(soccer_ball).svg&tbnid=oUIjH0YbBKfB4M&vet=12ahUKEwjQ1K_5y833AhXYVfEDHUBlAWsQMygAegUIARDdAQ..i&docid=oidNT_bA1WLNyM&w=1200&h=1275&q=foot%20ball&client=ubuntu&ved=2ahUKEwjQ1K_5y833AhXYVfEDHUBlAWsQMygAegUIARDdAQ)
+
